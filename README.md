@@ -2,7 +2,7 @@
 This is an attempted spyder python project which uses deep Q-learning to implement a virtual self driving car. 
 The concept of this is to use Artificial Neural Networks to Implement a virtual self driving car using a pre-created environment.
 
-#Contents of the repository
+# Contents of the repository
 The repository contains just one branch that contains all the necessary files for the project.
 
 # Folder/ File Structure
@@ -26,7 +26,7 @@ The virtual car has two destinations set:
  Aim of the program is to get the car to these destination. Finally with the mouse we can draw sand which is depicted in yellow lines on the environment which serve as roads for the car
  and the AI will learn to not cross these lines as it shows they are going off road
  
- #Tech stack and dependencies
+ # Tech stack and dependencies
  The Project is built on
   - Python
   - TensorFlow
