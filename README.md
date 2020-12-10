@@ -31,6 +31,7 @@ The virtual car has two destinations set:
   - Python
   - TensorFlow
   - Numpy
+  - PyTorch
  
  
 
